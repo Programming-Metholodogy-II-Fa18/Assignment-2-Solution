@@ -39,7 +39,7 @@ Solution:
 
 
 
-## Problem 4 A - Min and Max Arrangement
+# Problem 4 A - Min and Max Arrangement
 The problem is to arrange an array of random numbers into a {min max min ...} arrangement, where max > min on both sides.
 Solution:
 * Find the maximum value out of a set of 3: i-1,i, and i+1.
